@@ -1,0 +1,75 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.inputNote {
+  margin: auto;
+  margin-top: 10px;
+  width: 40%;
+  border: 3px solid black;
+  padding: 5px;
+}
+.title {
+  width: 97%;
+  font-size: 25px;
+  margin: 5px;
+  border: white;
+}
+.noteCnt {
+  width: 97.5%;
+  font-size: 25px;
+  margin: 5px;
+  border: white;
+}
+.addBtn {
+  background-color: goldenrod; /* Green */
+  border: black;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  border-radius: 50%;
+  margin-left: 85%;
+}
+.App {
+  background-color: goldenrod;
+  color: black;
+  font-size: 40px;
+}
+.appTitle {
+  margin: 5px;
+  margin-left: 10px;
+}
+.note {
+  border: solid black;
+  border-radius: 3px;
+  width: 25%;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+.noteTitle {
+  margin: 15px;
+}
+.noteContent {
+  font-size: 20px;
+  margin: 15px;
+}
+.dltBtn {
+  background-color: goldenrod; /* Green */
+  border: black;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  border-radius: 50%;
+  margin-left: 70%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+}
